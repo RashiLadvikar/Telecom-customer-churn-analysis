@@ -97,10 +97,10 @@ Telecom companies face increasing competition and customer attrition due to pric
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Dashboard Preview\Executive Summary.png)
+![Executive Summary](Dashboard%20Preview/Executive%20Summary.png)
 
 ### Churn Prediction
-![Churn Prediction](Dashboard Preview\Prediction Insights.png)
+![Churn Prediction](Dashboard%20Preview/Prediction%20Insights.png)
 
 
 ## 9. How to Run This Project
