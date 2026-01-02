@@ -94,6 +94,13 @@ Telecom companies face increasing competition and customer attrition due to pric
 - **Python (Jupyter Notebook)** – Data cleaning, preprocessing, and exploratory analysis  
 - **Power BI** – Data modeling, DAX measures, and interactive dashboard creation  
 
+## 📊 Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Dashboard Preview\Executive Summary.png)
+
+### Churn Prediction
+![Churn Prediction](Dashboard Preview\Prediction Insights.png)
 
 
 ## 9. How to Run This Project
