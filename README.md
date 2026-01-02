@@ -132,6 +132,7 @@ OR
 - Interact with dashboards using slicers and filters
 
 
+## Conclusion
 
-### 📁 Project Type
-**End-to-End Data Analytics Project | Portfolio & Resume Ready**
+This project demonstrates an end-to-end approach to analyzing customer churn using real-world telecom data.  
+The insights derived from this analysis can help businesses identify high-risk customers, understand key churn drivers, and design effective retention strategies.
