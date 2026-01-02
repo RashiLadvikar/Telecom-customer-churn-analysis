@@ -12,7 +12,7 @@ Power BI dashboard analyzing telecom customer churn, identifying high-risk custo
 
 **Telecom Customer Churn Analysis & Prediction | Power BI Dashboard**
 
----
+
 
 ## 2. Executive Summary
 
@@ -20,7 +20,7 @@ Customer churn is a critical challenge for telecom companies, directly impacting
 This project analyzes historical customer data to identify churn patterns and predict high-risk customers.  
 Interactive Power BI dashboards were built to help stakeholders understand churn drivers, customer behavior, and revenue impact, enabling data-driven retention strategies.
 
----
+
 
 ## 3. Business Problem
 
@@ -33,7 +33,7 @@ Telecom companies face increasing competition and customer attrition due to pric
 - How does churn impact revenue?
 - Which customers are at high risk of churning in the future?
 
----
+
 
 ## 4. Methodology
 
@@ -45,7 +45,7 @@ Telecom companies face increasing competition and customer attrition due to pric
   - Prediction Dashboard to identify high-risk customers  
 - Applied filters and slicers for dynamic analysis by state, contract type, internet service, and payment method  
 
----
+
 
 ## 5. Skills
 
@@ -60,7 +60,7 @@ Telecom companies face increasing competition and customer attrition due to pric
 - Churn Analysis  
 - Customer Segmentation  
 
----
+
 
 ## 6. Results & Business Recommendations
 
@@ -76,7 +76,7 @@ Telecom companies face increasing competition and customer attrition due to pric
 - Improve service offerings for customers with higher churn probability
 - Implement proactive engagement strategies for predicted churners
 
----
+
 
 ## 7. Next Steps
 
@@ -85,7 +85,7 @@ Telecom companies face increasing competition and customer attrition due to pric
 - Perform cohort analysis to track churn over time
 - Extend analysis to customer lifetime value (CLV)
 
----
+
 
 ## 8. Tools & Technologies Used
 
@@ -94,7 +94,7 @@ Telecom companies face increasing competition and customer attrition due to pric
 - **Python (Jupyter Notebook)** – Data cleaning, preprocessing, and exploratory analysis  
 - **Power BI** – Data modeling, DAX measures, and interactive dashboard creation  
 
----
+
 
 ## 9. How to Run This Project
 
@@ -123,7 +123,7 @@ If Python is not used, data cleaning and transformations can be performed direct
 OR  
 - **Power BI Power Query Editor**
 
----
+
 
 ### Step 4: Power BI Dashboard
 - Open the `.pbix` file in **Power BI Desktop**
@@ -131,7 +131,7 @@ OR
 - Review data model and DAX measures
 - Interact with dashboards using slicers and filters
 
----
+
 
 ### 📁 Project Type
 **End-to-End Data Analytics Project | Portfolio & Resume Ready**
