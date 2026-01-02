@@ -2,6 +2,7 @@
 Power BI dashboard analyzing telecom customer churn, identifying high-risk customers, churn drivers, and revenue impact to support data-driven retention strategies.
 
 📊 Telecom Customer Churn Analysis (Power BI)
+
 1️⃣ Title
 
 Telecom Customer Churn Analysis & Prediction | Power BI Dashboard
